@@ -6,10 +6,14 @@ A university student and open source enthusiast
 
 I have been learning programming for 3 years. I hope to become a full stack development engineer and like to see some new technologies.Also interested in web3.
 
-*   🌍  I'm based in Shanghai
-*   ✉️  You can contact me at [niqifanwaka@gmail.com](mailto:niqifanwaka@gmail.com)
-*   🧠  I'm learning a new framework
-*   🤝  I'm open to collaborating on interesting projects and Web3### Skills 
+* 🌍  I'm based in Shanghai
+* ✉️  You can contact me at [niqifanwaka@gmail.com](mailto:niqifanwaka@gmail.com)
+* 🧠  I'm learning a new framework
+* 🤝  I'm open to collaborating on interesting projects and Web3
+
+### Skills
+
+
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -34,11 +38,14 @@ I have been learning programming for 3 years. I hope to become a full stack deve
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/niqifan007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/niqifan007"><img src="https://github-readme-stats.vercel.app/api?username=niqifan007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="niqifan007's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/niqifan007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/niqifan007"><img src="https://github-readme-stats.vercel.app/api?username=niqifan007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="niqifan007's GitHub stats" /></a>
