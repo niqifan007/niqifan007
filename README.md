@@ -1,10 +1,10 @@
 Hi 👋 My name is waka
 =====================
 
-A university student and open source enthusiast
+AI engineer and open source enthusiast
 -----------------------------------------------
 
-I have been learning programming for 3 years. I hope to become a full stack development engineer and like to see some new technologies.Also interested in web3.
+I have been learning programming for 4 years. I hope to become a full stack development engineer and like to see some new technologies.Also interested in web3/AI.
 
 * 🌍  I'm based in Shanghai
 * ✉️  You can contact me at [niqifanwaka@gmail.com](mailto:niqifanwaka@gmail.com)
