@@ -4,12 +4,12 @@ Hi 👋 My name is waka
 AI engineer and open source enthusiast
 -----------------------------------------------
 
-I have been learning programming for 4 years. I hope to become a full stack development engineer and like to see some new technologies.Also interested in web3/AI.
+I have been learning programming for 5 years. I hope to become a full stack development engineer and like to see some new technologies.Also interested in AI.
 
 * 🌍  I'm based in Shanghai
 * ✉️  You can contact me at [niqifanwaka@gmail.com](mailto:niqifanwaka@gmail.com)
 * 🧠  I'm learning a new framework
-* 🤝  I'm open to collaborating on interesting projects and Web3
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
