@@ -10,6 +10,7 @@ I have been learning programming for 5 years. I hope to become a full stack deve
 * ✉️  You can contact me at [niqifanwaka@gmail.com](mailto:niqifanwaka@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
+* 🖥️ Check out my blog: [https://blog.wakaplus.com/](https://blog.wakaplus.com/)
 
 ### Skills
 
